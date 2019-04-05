@@ -16,7 +16,6 @@ var namaBelakang = "Sari"
 
 console.log("Nama saya" + " " + namaDepan + namaBelakang)
 
-// ini bisa ngak ya
 console.log(`Nama Saya ${namaDepan + ' ' + namaBelakang} `)
 
-// alert(`I ate ${amount} donuts`);
+alert(`I ate ${amount} donuts`);
